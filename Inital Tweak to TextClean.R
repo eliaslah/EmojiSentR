@@ -1,6 +1,6 @@
 
-library(stringr)    # For regex operations
-library(textclean)  # Not needed here because we're using our custom removal function
+library(stringr)    
+library(textclean)  
 
 
 emoji_sentiments <- data.frame(

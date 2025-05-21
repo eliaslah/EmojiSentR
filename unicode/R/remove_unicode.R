@@ -1,5 +1,5 @@
 # =======================================================================
-#  unicode_utils.R      –  strip / replace / flag troublesome characters
+#  remove_unicode.R      –  strip / replace / flag troublesome characters
 # =======================================================================
 
 # -------------------------------  remove_unicode  -------------------------------

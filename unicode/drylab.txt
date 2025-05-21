@@ -1,0 +1,109 @@
+DrylabNews                                             for investors & friends · May 2017
+
+
+
+
+Welcome to our first newsletter of 2017! It's    the 2.05 MNOK loan from Innovation
+been a while since the last one, and a lot has   Norway. Including the development
+happened. We promise to keep them coming         agreement with Filmlance International, the
+every two months hereafter, and permit           total new capital is 5 MNOK, partly tied to
+ourselves to make this one rather long. The      the successful completion of milestones. All
+big news is the beginnings of our launch in      formalities associated with this process are
+the American market, but there are also          now finalized.
+interesting updates on sales, development,
+                                                 New owners: We would especially like to
+mentors and (of course) the investment
+                                                 warmly welcome our new owners to the
+round that closed in January.
+                                                 Drylab family: Unni Jacobsen, Torstein Jahr,
+New capital: The investment round was            Suzanne Bolstad, Eivind Bergene, Turid Brun,
+successful. We raised 2.13 MNOK to match         Vigdis Trondsen, Lea Blindheim, Kristine
+
+
+
+
+34
+             Academy of Motion Picture Arts and Sciences · Alesha & Jamie Metzger · Amazon
+             AWS · Apple · Caitlin Burns, PGA · Carlos Melcer · Chimney L.A. · Dado Valentic ·
+             Dave Stump · DIT WIT · ERA NYC · Facebook · Fancy Film · FilmLight · Geo Labelle ·
+meetings     Google · IBM · Innovation Norway (NYC) · Innovation Norway (SF) · International
+ NY · SF     Cinematographers Guild · NBC · Local 871 · Netflix · Pomfort · Radiant Images ·
+        V
+ LA · LLV    Screening Room · Signiant · Moods of Norway · Tapad · Team Downey
+Holmsen, Torstein Hansen, and Jostein            accomplished producer based in New York,
+Aanensen. We look forward to working with        an active member of the Producers Guild of
+you!                                             America, and the collaboration has already
+                                                 yielded good results, including valuable
+Sales: Return customer rate is now 80%,
+                                                 contacts for our visit in Los Angeles. Oscar-
+proving value and willingness to pay. Film
+                                                 winning VFX supervisor Dave Stump joined
+Factory Montreal is our first customer in
+                                                 us earlier.
+Canada. Lumiere Numeriques have started
+using us in France. We also have new             New York, St. Louis, San Francisco and
+customers in Norway, and high-profile users      Los Angeles: Pontus and Audun did a tour
+such as Gareth Unwin, producer of Oscar-         of the US in February and March, meeting
+winning The King's Speech. Revenue for the       users, partners and potential customers. The
+first four months is 200 kNOK, compared to       trip was very successful, with several high
+339 kNOK for all of 2016. We are working         points, including meetings with Netflix, the
+on a partnership to safeguard sales in           Academy of Motion Picture Arts and
+Norway while beginning to focus more on          Sciences, the International
+the US.                                          Cinematographers Guild, Local 871 (the
+                                                 script supervisors' union), one of the world's
+                                                 leading DITs, and Apple. See the separate
+                                                 attachment for a more detailed summary.
+
+                                                 NAB: Andreas and Audun travelled to the
+                                                 National Association of Broadcasters
+                                                 convention (NAB) in Las Vegas for three
+                                                 hectic days in April. NAB gathers 100,000
+                                                 participants from film and TV. It's a very
+                                                 efficient way of meeting people in the
+                                                 business, and getting an updated picture of
+New team members: We've extended our             the business landscape. The most exciting
+organization with two permanent developers       meeting was with PIX System, one of our
+based in Łódź, the film capital of Poland. Two   most important competitors. It was
+highly skilled interns from the University of    interesting to note that they regarded the
+Oslo's Entrepreneurship Program, will be         indie market as bigger than their own.
+working on market research until mid-June            Andreas was able to secure us an
+(starting in March), preparing for the US        invitation to the DIT-WIT party, with some of
+launch. Also, two computer science students      the world's leading DITs in attendance. It was
+are working as part-time interns during          a great place for informal feedback on Drylab
+spring, on machine learning and analysis         Viewer. The pattern was the same as for
+research, as well as innovative architectures    other users: Initial polite interest turns to
+based on the Swift language. We hope our         real enthusiasm the moment someone is able
+interns will consider sticking around!           to personally try Drylab Viewer! We also
+                                                 met with Pomfort and Apple about our on-
+New mentor: We are honored to have               going collaborations; ARRI and Teradek/
+Caitlin Burns joining us as a mentor. She's an
+Paralinx about camera integration; Amazon,           The launch of Drylab 3.0 will take place at
+Google and IBM about cloud computing.            the International Broadcasters Convention
+                                                 in Amsterdam in September, and we are
+WWDC and Silicon Valley: We were very
+                                                 working hard to get solid feedback from pilot
+pleasantly surprised to be invited by Apple to
+                                                 users before then.
+their World Wide Developers Conference in
+San Jose in June, despite not having applied.    Annual General Meeting: Drylab's AGM
+It's a valuable chance to learn and make new     will be held on June 16th at 15:00. An
+connections. We’re also setting aside time to    invitation will be distributed to all owners
+meet other potential partners.                   well in advance. We hope to see you there!
+
+Cine Gear: We have decided not to attend         As you can see it has been a hectic
+the Cine Gear expo in L.A. this year, since      spring that has given us a lot of
+feedback from many users about the show          confirmation about our product. We
+were mixed, and our planned beta version of      are now working eagerly and hard
+3.0 is slightly delayed.                         towards the US launch with Drylab
+                                                 3.0, while keeping momentum in
+Development and launch: Development
+                                                 Europe with our existing system.
+is around one month behind our original
+schedule. We expect the delay to decrease,
+with new developers on board.
+
+
+
+
+[Drylab has kindly allowed this newsletter to be redone in HTML/CSS and converted to PDF
+with Prince. Navngen helped anonymize names in the process.]

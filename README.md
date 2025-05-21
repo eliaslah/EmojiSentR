@@ -27,6 +27,7 @@ social-media text & PDFs.
 `pdftotext` must be on your *PATH*.
 
 | OS | install command |
+|----|-----------------|
 | Windows | Download the [Poppler for Windows zip](https://github.com/oschwartz10612/poppler-windows/releases) → unzip to `C:\Program Files\Poppler` → add `Poppler\bin` to the PATH.
 | macOS | `brew install poppler` |
 | Ubuntu/Debian | sudo apt-get install poppler-utils |

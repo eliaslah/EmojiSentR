@@ -1,13 +1,37 @@
-Package: unicode
+Package: EmojiSentR
 Type: Package
-Title: Removes unicode values and scans .pdf text
+Title: Text and Emoji Sentiment, Unicode Cleaning, and PDF-to-Text
 Version: 0.1.0
-Author: Elias Lahrim and Logan Hanson
-Maintainer: elahrim@gmail.com
-Description: TBD
-License: TBD
+Authors@R:
+    c(
+      person("Elias",  "Lahrim",  email = "elahrim@gmail.com",
+             role = c("aut", "cre")),  # aut = author, cre = maintainer
+      person("Logan",  "Hanson", role = "aut")
+    )
+Description: Provides three lightweight tools for messy-text workflows:
+    (i) `sentiment_vader_hash()` blends VADER word polarity with emoji scores
+    from the Emoji-Sentiment-Ranking corpus; (ii) `remove_unicode()` strips,
+    replaces, or flags emojis, pictographs and control characters that break
+    CSV parsers; and (iii) `clean_with_poppler()` / `save_pdf_as_text()` extract
+    UTF-8 text from PDFs via Poppler's 'pdftotext'.  All functions are pipe-
+    ready and depend only on CRAN packages.
+License: AFL-3.0
 Encoding: UTF-8
 LazyData: true
-Depends: 
-    R (>= 2.10)
+Depends:
+    R (>= 3.5)
+Imports:
+    dplyr,
+    stringi,
+    vader,
+    lexicon,
+    utils
+Suggests:
+    testthat (>= 3.0.0),
+    pkgdown,
+    knitr,
+    rmarkdown
+SystemRequirements: Poppler (pdftotext) on system PATH
+URL: https://github.com/eliaslah/EmojiSentR
+BugReports: https://github.com/eliaslah/EmojiSentR/issues
 RoxygenNote: 7.3.2

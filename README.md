@@ -3,7 +3,7 @@
 - **Package**: EmojiSentR (aka unicode)
 - **Title**: Text & Emoji Sentiment Analysis • Unicode Cleaning • PDF-to-Text
 - **Version**: 0.1.0
-- **Authors**: Elias Lahrim & Logan Hanson
+- **Authors**: Elias Lahrim & Logan Hanson & Xin Tong
 - **Maintainer**: Elias Lahrim <elahrim@gmail.com>
 - **Description**: Blend VADER text sentiment with emoji polarity, strip
   troublesome Unicode, and convert PDFs to tidy UTF-8 in R.
